@@ -1,0 +1,6 @@
+{
+    "user": "vagrant",
+    "packages": ["emacs", "git", "zsh", "tmux", "curl", "binutils", "build-essential", "gconf2", "xclip", "openjdk-8-jdk", "pkg-config", "libssl-dev", "cmake", "exuberant-ctags", "texinfo", "fonts-powerline"],
+    "versions": {"go": "1.14", "ruby": "2.5.1"},
+    "dir": "Works"
+}
